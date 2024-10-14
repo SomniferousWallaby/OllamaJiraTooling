@@ -1,0 +1,59 @@
+# Bytecode compiled files
+*.pyc
+__pycache__/
+
+# Distribution / packaging
+.dist/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so they are in version control.
+#
+#  Executables
+#  *.exe
+#  *.dmg
+#  *.msi
+#
+#  Directories
+Jira_Swagger/
+
+# Virtual environments
+.env/
+venv/
+ENV/
+
+# IDE project files
+.idea/
+.vscode/
+*.suo
+*.sln
+*.ncb
+*.user
+*.dotsettings
+*.wixobj
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MyPy cache
+.mypy_cache/
+.dmypy.json
+
+# Compiled OpenAPI specifications
+*.oas.json
+
+# Ollama model files
+*.bin
+
+# Configuration files (sensitive data)
+config.json

@@ -1,0 +1,7 @@
+{
+    "jira_server":"https://<server_name>.atlassian.net/",
+    "jira_api_token":"Jira Account Settings -> Secutrity -> API tokens -> Copy generated token here",
+    "jira_user":"example@emailForJira.com",
+    "ai_evaluated_label":"Label Name for Evaluated Issues",
+    "issue_status":"Jira issue status to query for"
+}
